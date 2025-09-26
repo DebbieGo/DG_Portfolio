@@ -1,4 +1,4 @@
-## Hi there! 
+### Hi there!
 
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="60" viewBox="0 0 240 60">
   <!-- Left section (mocha background, pill shape) -->
@@ -9,7 +9,7 @@
   
   <!-- Coffee cup -->
   <text x="40" y="35" font-size="32" text-anchor="middle" dominant-baseline="middle">
-    ☕️
+    🎯
   </text>
   
   <!-- Name -->
@@ -19,11 +19,10 @@
 </svg>
 
 
+> I am a **data-driven marketing leader** focused not only on demand generation but also on driving **sustainable, profitable growth across the entire customer journey**. I design and implement **intelligent, data-driven systems**, leveraging **predictive analytics and automation** to optimize key business decisions and unlock measurable impact.
 
 
----
 
-I am a **data-driven marketing leader** focused not only on demand generation but also on driving **sustainable, profitable growth across the entire customer journey**. I design and implement **intelligent, data-driven systems**, leveraging **predictive analytics and automation** to optimize key business decisions and unlock measurable impact.
 
 
 ## About me
