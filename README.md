@@ -14,7 +14,7 @@
   
   <!-- Name -->
   <text x="160" y="35" font-size="22" font-family="Arial, sans-serif" fill="#4B2E19" text-anchor="middle" dominant-baseline="middle">
-    I'm Debbie Go
+    My name is Debbie Go
   </text>
 </svg>
 
