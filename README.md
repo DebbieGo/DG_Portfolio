@@ -43,7 +43,7 @@ I am a **data-driven marketing leader** focused not only on demand generation bu
 
  Key Features:
 
-1. Interactive 'What-If' Scenarios: Dynamically change order parameters—such as fulfillment factory, units, and shipping mode—to see the immediate impact on costs and profit.
+1. Interactive 'What-If' Scenarios: Dynamically change order parameters—such as fulfillment factory, units, and shipping mode—to see the immediate impact on distance and profit.
 
 2. Predictive Engine: Leverages a Random Forest Regressor (built with Python, Pandas, and Scikit-learn) to accurately forecast gross profit based on logistical and product variables.
 
