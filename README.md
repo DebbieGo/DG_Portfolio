@@ -36,8 +36,7 @@
 
 ## My work
 
-* [Supply Chain Optimization](https://github.com/DebbieGo/SupplyChain_Optimization.github.io): Interactive Supply Chain Optimizer using Python & Random Forest
-
+* [Supply Chain Optimization](https://github.com/DebbieGo/SupplyChain_Optimization.github.io): An Interactive Supply Chain Optimizer 
 > This project is a decision support tool that forecasts shipping profitability and identifies optimization   opportunities for a national candy distributor.
 
  Key Features:
@@ -47,5 +46,18 @@
 2. Predictive Engine: Leverages a Random Forest Regressor (built with Python, Pandas, and Scikit-learn) to accurately forecast gross profit based on logistical and product variables.
 
 3. Actionable Insights: Quantifies the potential profit uplift and mileage saved by switching an order to its optimal factory, turning complex data into a clear, strategic recommendation.
+
+
+* [HDB Resale Price Prediction](https://github.com/DebbieGo/HDB-Resale-Price_Prediction.github.io): An Interactive Pricing Tool for Real Estate Agents
+
+> This project delivers a high-accuracy predictive model and an interactive tool that empowers real estate agents to provide data-driven pricing advice for Singapore's HDB resale market.
+
+Key Features:
+
+1. Interactive Pricing Scenarios: Agents can dynamically change a flat's parameters—such as town, flat type, floor area, and storey—to receive an instant, model-backed estimate of its resale value.
+
+2. Advanced Predictive Engine: Leverages a powerful XGBoost Regressor built with Python's data science stack (Pandas, Scikit-learn, XGBoost). The model achieves an R-squared of 0.97, explaining 97% of price variability by capturing the complex, non-linear dynamics of the property market.
+
+3. Strategic Market Insights: Identifies and quantifies the key drivers of resale prices, confirming that mature estates, flat type, and remaining lease are the most influential factors, turning raw data into clear, strategic advice for clients.
 
 ## Check out my [Tableau vizzes](https://public.tableau.com/app/profile/debbie.go/vizzes)
