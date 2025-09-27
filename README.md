@@ -37,7 +37,7 @@
 ## My work
 
 1. [Supply Chain Optimization](https://github.com/DebbieGo/SupplyChain_Optimization.github.io): An Interactive Supply Chain Optimizer 
-> This project is a decision support tool that forecasts shipping profitability and identifies optimization   opportunities for a national candy distributor.
+> This project is a decision support tool that forecasts shipping profitability and identifies optimization opportunities for a national candy distributor.
 
 **Key Features**:
 
