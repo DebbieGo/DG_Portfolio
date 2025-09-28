@@ -48,7 +48,7 @@
 * **Actionable Insights**: Quantifies the potential profit uplift and mileage saved by switching an order to its optimal factory, turning complex data into a clear, strategic recommendation.
 
 
-2. [HDB Resale Price Prediction](https://github.com/DebbieGo/HDB-Resale-Price_Prediction.github.io): An Interactive Pricing Tool for Real Estate Agents
+2. [HDB Resale Price Prediction](https://github.com/DebbieGo/HDB-Resale-Price_Prediction.github.io): An Predictive Pricing Tool for Real Estate Agents
 
 > This project delivers a high-accuracy predictive model and an interactive tool that empowers real estate agents to provide data-driven pricing advice for Singapore's HDB resale market.
 
