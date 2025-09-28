@@ -19,7 +19,7 @@
 </svg>
 
 
-> I am a **data-driven marketing leader** focused not only on demand generation but also on driving **sustainable, profitable growth across the entire customer journey**. I design and implement **intelligent, data-driven systems**, leveraging **predictive analytics and automation** to optimize key business decisions and unlock measurable impact.
+> A **data-driven marketing leader** focused on optimizing demand generation and channel mix to **accelerate sustainable, profitable growth across the entire customer journey**. I design and implement **intelligent systems**, leveraging **predictive analytics and automation** to guide key business decisions and deliver measurable impact.
 
 
 
